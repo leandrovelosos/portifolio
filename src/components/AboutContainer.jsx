@@ -3,16 +3,15 @@ const AboutContainer = () => {
       <section className="about-container">
         <h2>Sobre</h2>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-          Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-          debitis est autem aperiam necessitatibus beatae assumenda illo rem
-          architecto quis dolor quae.
+        Graduando em Sistemas de Informação pela Universidade Federal do Pará. Atualmente 
+        meus estudos estão direcionados para o desenvolvimento web, embora meu foco esteja
+        voltado para esta área citada mantenho-me aberto a novas
+        experiências e desafios que possam surgir em minha trajetória.
+       
         </p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-          aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-          distinctio provident impedit modi neque sapiente voluptate voluptates.
-          Maiores sint at dolores?
+         Estou aberto a oportunidades que me ajudem a desenvolver e melhorar minhas habilidades
+         e competencias como profissional da área.
         </p>
       </section>
     );
